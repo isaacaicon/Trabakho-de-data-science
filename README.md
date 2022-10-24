@@ -4,6 +4,7 @@
 ## Business Model Canvas
 Link para o [canvas] https://next.canvanizer.com/canvas/ijSo0DPXKmQWI
 ## Canvas
+Anexos do repositorio
 https://next.canvanizer.com/canvas/ijSo0DPXKmQWI
 ## Video
 Link para o [video]
