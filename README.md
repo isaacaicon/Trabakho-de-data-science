@@ -5,7 +5,7 @@
 Link para o [canvas] https://next.canvanizer.com/canvas/ijSo0DPXKmQWI
 
 ## Video
-Link para o [video](www.youtube.com)
-
+Link para o [video]
+https://drive.google.com/file/d/1NVFW6gr-o2es6Lmtn0mbQZlmS0P848on/view?usp=sharing
 ## Banco de dados
-Link para o [banco de dados] https://www.skyscrapercenter.com/explore-data?output=list&types%5B%5D=building&statuses%5B%5D=COM&statuses%5B%5D=UCT&statuses%5B%5D=STO&statuses%5B%5D=UC&height=&materials%5B%5D=timber&region_id=&country_id=&city_id=&min_year=&max_year=&filter_company=&output=list
+Link para o [banco de dados]
